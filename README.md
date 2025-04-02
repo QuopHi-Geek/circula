@@ -1,3 +1,7 @@
+* Git Repo: git@github.com:QuopHi-Geek/circula.git
+
+TEST CASES
+
 1. Test Cases for Sign-Up flow
 -  Verify and complete the sign-up process successfully
 -  Verify valid work email is provided

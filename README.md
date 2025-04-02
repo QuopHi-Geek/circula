@@ -1,4 +1,4 @@
-* Git Repo: https://github.com/QuopHi-Geek/circula.git
+Git Repo: https://github.com/QuopHi-Geek/circula.git
 
 TEST CASES
 

@@ -4,10 +4,6 @@ Git Repo: https://github.com/QuopHi-Geek/circula.git
 
 <br>
 
-<h3> <u><strong>TEST CASES <br></strong></u></h3>
-
-<br>
-
 1. TEST CASES - SIGN UP FLOW
 
 <br>

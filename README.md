@@ -7,7 +7,9 @@ Git Repo: https://github.com/QuopHi-Geek/circula.git
 1. TEST CASES - SIGN UP FLOW
 
 <br>
--  Verify and complete the sign-up process successfully
+<br>
+
+- Verify and complete the sign-up process successfully
 -  Verify a valid work email is required.
 -  Verify valid work email is provided
 -  Verify email not already exist/duplicated
@@ -40,7 +42,10 @@ Git Repo: https://github.com/QuopHi-Geek/circula.git
 <br>
 
 2. TEST CASES - TEXT LIMIT VALIDATION
+
 <br>
+<br>
+
 - Verify suggestions must not displayed when the character count exceeds 100.
 - Verify suggestions relate to the related search term
 - Verify suggestions must display when the character count is 100 or less.

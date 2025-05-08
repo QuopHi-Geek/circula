@@ -9,13 +9,7 @@ Git Repo: https://github.com/QuopHi-Geek/circula.git
 <br>
 <br>
 
-- Verify and complete the sign-up process successfully
--  Verify a valid work email is required.
--  Verify valid work email is provided
--  Verify email not already exist/duplicated
--  Verify valid password is provided
--  Verify  terms and conditions are accepted
--  Verify  user details are not provided
+
 -  Verify optional emails selection
 -  Verify phone number required
 -  Verify  valid company name provided
@@ -27,8 +21,6 @@ Git Repo: https://github.com/QuopHi-Geek/circula.git
 -  Verify  password does contain an uppercase and lowercase
 -  Verify  when phone number is in invalid format
 -  Verify phone number not empty
--  Verify phone number does not accept letters
--  Verify phone number is too short
 -  Verify  phone number is too long
 -  Verify first and last provided
 -  Verify  first and last name does not contains numbers
